@@ -13,6 +13,16 @@ A desktop based save _and_ profile editor for [Borderlands 3](borderlands.com/).
 4. You can now edit your profile or game save to your hearts content!
 5. Once you think you're done editing your saves, you can save your file with either the `Save` button (which will overwrite your loaded file), or use the `Save As` button, allowing you to save to a new file. In either case, it will make backups to help keep your saves protected!
 
+### Cloning / Building
+
+1. Clone the repository via git with the --recursive parameter
+```console
+git clone --recursive  https://github.com/FromDarkHell/BL3SaveEditor
+```
+2. Open the solution via the "BL3SaveEditor.sln" file.
+3. In the "Solution Explorer" window right click on the "Solution 'BL3SaveEditor'" then click "Clean Solution" and "Rebuild Solution".
+4. Restart Visual Studio
+
 ### Credits
 
 - [gibbed](https://github.com/Gibbed) for their [Inventory Serial Number Database](https://github.com/gibbed/Borderlands3Dumps). It's what allows me to know what weapons you've got in your backpack! I also use their [Borderlands3Protos](https://github.com/gibbed/Borderlands3Protos) repository
