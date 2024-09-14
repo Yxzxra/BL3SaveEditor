@@ -1,6 +1,6 @@
 ## Borderlands 3 Save Editor
 
-A desktop based save _and_ profile editor for [Borderlands 3](borderlands.com/).
+A desktop based save _and_ profile editor for [Borderlands 3](https://borderlands.2k.com/).
 
 ![](https://img.shields.io/tokei/lines/github/FromDarkHell/BL3SaveEditor?style=for-the-badge) ![](https://img.shields.io/github/downloads/FromDarkHell/BL3SaveEditor/total?style=for-the-badge)
 
